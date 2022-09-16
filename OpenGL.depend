@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1615620430 source:d:\l-4 t-1\cse410 computer graphics sessional\offline\1\offline essentials\opengl\opengl_codeblocks\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<windows.h>
+	<glut.h>
+
+1392007564 d:\l-4 t-1\cse410 computer graphics sessional\offline\1\offline essentials\opengl\opengl_codeblocks\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1616175126 source:d:\l-4 t-1\cse410 computer graphics sessional\offline\1\1605114\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<queue>
+
+1392007564 d:\l-4 t-1\cse410 computer graphics sessional\offline\1\1605114\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1625381442 source:d:\l-4 t-1\cse410 computer graphics sessional\offline\3\1605114\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<queue>
+	<iostream>
+	<fstream>
+	"bitmap_image.hpp"
+	"1605114_classes.h"
+
+1392007564 d:\l-4 t-1\cse410 computer graphics sessional\offline\3\1605114\opengl\include\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1625381911 d:\l-4 t-1\cse410 computer graphics sessional\offline\3\1605114\1605114_classes.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<iostream>
+	<windows.h>
+	<glut.h>
+	<queue>
+
+1492200750 d:\l-4 t-1\cse410 computer graphics sessional\offline\3\1605114\bitmap_image.hpp
+	<algorithm>
+	<cmath>
+	<cstdlib>
+	<fstream>
+	<iostream>
+	<iterator>
+	<limits>
+	<string>
+
